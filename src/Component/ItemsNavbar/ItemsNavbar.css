@@ -1,0 +1,23 @@
+.item-navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-icon{
+    width: 20px;
+    height: 20px;
+}
+
+.button{
+    background-color: white;
+    margin-left: 2em;
+}
+
+.item-heading{
+    font-size: larger;
+    font-weight: bold;
+}
+.item-navbar-subcontainer{
+    display: flex;
+}

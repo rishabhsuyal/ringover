@@ -1,0 +1,30 @@
+.shoe-collection{
+    /* display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; */
+    /* margin: 2em; */
+
+}
+.shoe-sub-collection{
+    display: grid;
+    grid-template-columns: 33% 33% 33% ;
+}
+
+/* .margin-block{
+    margin: 0.5em;
+    padding: 0px;
+} */
+
+@media screen and (max-width:1080px) {
+    .shoe-sub-collection{
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .shoe-sub-collection{
+        display: grid;
+        grid-template-columns: 80%;
+    }
+}

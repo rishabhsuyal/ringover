@@ -1,0 +1,60 @@
+.jouney-container{
+    display: flex;
+    flex-direction: column;
+    margin: 5em 6rem;
+    height: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.jouney-sub-container{
+    background-image: url('../../Photos/grasspic.jpg');
+    filter: brightness(70%);
+    width: 100%;
+    height: 15em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jouney-text-area{
+    width: 100%;
+    height: 100%;
+    /* filter: brightness(80%); */
+    background-color: black;
+    color: white;
+    font-size: x-small;
+    
+}
+.heading{
+    color: white;
+    font-size: 3em;
+}
+.jouney-text-container{
+    margin: 2rem;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    position: relative;
+    padding: 4px 10px;
+}
+ul li::before{
+    content: "";
+    background: white;
+    height: 100%;
+    width: 1px;
+    position: absolute;
+    left: 0;
+}
+ul li::after{
+    content: "";
+    --size:5px;
+    width: var(--size);
+    height: var(--size);
+    border-radius: 50%;
+    background: white;
+    position: absolute;
+    left: -2px;
+    top:20px
+}

@@ -1,0 +1,23 @@
+.cart-block-image{
+    width: 40px;
+    height: 40px;
+    
+}
+.cart-block-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
+.cart-block-subcontainer{
+    display: flex;
+}
+.cart-button{
+    margin-left: 0.8em;
+    margin-bottom: 2px;
+    background-color: white;
+}
+.cart-button:hover{
+    background-color: blanchedalmond;
+}

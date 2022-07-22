@@ -1,0 +1,20 @@
+.filter-col-container{
+    width: 20%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-right: 10px;
+    padding: 1.5em;
+    position: relative;
+}
+.filter-order-button{
+    position: absolute;
+    bottom: 0.5em;
+    
+}
+.filter-cart-button-order{
+    background-color: black;
+    color: white;
+    
+}
+.filter-col-sub{
+    margin-bottom: 1em;
+}

@@ -1,0 +1,35 @@
+.blocks-container{
+    background-color: white;
+    display: flex;
+    width: 12rem;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 1.8em;
+}
+
+.icon-image{
+    margin-left: 1em;
+    width: 20px;
+    height: 20px;
+}
+.image-container{
+    padding: 2em;
+}
+.name-heading{
+    margin-bottom: -0.5em;
+}
+.post-heading{
+    font-size: small;
+}
+.profile-image{
+    height: 12em;
+    object-fit: cover;
+    
+}
+.text-block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: small;
+}

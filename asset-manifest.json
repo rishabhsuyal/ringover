@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ringover/static/css/main.6120b4e7.css",
+    "main.js": "/ringover/static/js/main.f9c00e68.js",
+    "static/media/tonikroos.jpg": "/ringover/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
+    "static/media/grasspic.jpg": "/ringover/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/grass.jpeg": "/ringover/static/media/grass.0a8aebe1cbf9eefc4dbf.jpeg",
+    "static/media/Product_Sans.ttf": "/ringover/static/media/Product_Sans.863727019c4716c4dc24.ttf",
+    "static/media/christiano.jpg": "/ringover/static/media/christiano.6c59ff44f69c755a3933.jpg",
+    "static/media/zidane.jpg": "/ringover/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/cart.png": "/ringover/static/media/cart.adcbdee36831cfadab90.png",
+    "static/media/chain.jpg": "/ringover/static/media/chain.51522bd177016fecb752.jpg",
+    "static/media/medium.png": "/ringover/static/media/medium.b87629cbe6267bf69b33.png",
+    "static/media/ikercasillas.jpg": "/ringover/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
+    "static/media/search.webp": "/ringover/static/media/search.4ad2203aeae73bd874bd.webp",
+    "index.html": "/ringover/index.html",
+    "main.6120b4e7.css.map": "/ringover/static/css/main.6120b4e7.css.map",
+    "main.f9c00e68.js.map": "/ringover/static/js/main.f9c00e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6120b4e7.css",
+    "static/js/main.f9c00e68.js"
+  ]
+}

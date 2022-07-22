@@ -13,7 +13,12 @@
 .filter-cart-button-order{
     background-color: black;
     color: white;
-    
+    margin-right: 10px;
+}
+
+.filter-cart-button-order:hover{
+    background-color: white;
+    color: black;
 }
 .filter-col-sub{
     margin-bottom: 1em;

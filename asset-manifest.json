@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ringover/static/css/main.6120b4e7.css",
-    "main.js": "/ringover/static/js/main.f9c00e68.js",
+    "main.css": "/ringover/static/css/main.cb3b6318.css",
+    "main.js": "/ringover/static/js/main.59843444.js",
     "static/media/tonikroos.jpg": "/ringover/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
     "static/media/grasspic.jpg": "/ringover/static/media/grasspic.60d418585600b05647eb.jpg",
     "static/media/grass.jpeg": "/ringover/static/media/grass.0a8aebe1cbf9eefc4dbf.jpeg",
@@ -14,11 +14,11 @@
     "static/media/ikercasillas.jpg": "/ringover/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
     "static/media/search.webp": "/ringover/static/media/search.4ad2203aeae73bd874bd.webp",
     "index.html": "/ringover/index.html",
-    "main.6120b4e7.css.map": "/ringover/static/css/main.6120b4e7.css.map",
-    "main.f9c00e68.js.map": "/ringover/static/js/main.f9c00e68.js.map"
+    "main.cb3b6318.css.map": "/ringover/static/css/main.cb3b6318.css.map",
+    "main.59843444.js.map": "/ringover/static/js/main.59843444.js.map"
   },
   "entrypoints": [
-    "static/css/main.6120b4e7.css",
-    "static/js/main.f9c00e68.js"
+    "static/css/main.cb3b6318.css",
+    "static/js/main.59843444.js"
   ]
 }
